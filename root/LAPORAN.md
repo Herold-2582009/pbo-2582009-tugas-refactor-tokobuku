@@ -107,7 +107,7 @@ Method yang tidak berlaku untuk semua produk dikeluarkan dari `Produk`. Semua tu
 hal yang benar-benar bisa mereka penuhi, sehingga setiap `Produk` aman dipakai di mana pun tanpa pemeriksaan
 tipe dan tanpa exception. `getDurasiMenit()` kini hanya ada di `BukuAudio`.
 
-## I: Interface Segregation Principle
+## I: Interface Segregation Principle.
 
 **(a) Kode awal yang melanggar**
 
